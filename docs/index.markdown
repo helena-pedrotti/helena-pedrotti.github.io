@@ -4,4 +4,6 @@
 
 layout: home
 ---
-hi, if I change this it wil lfix everything
+# HELENA PEDROTTI
+
+![Picture of Helena](/IMG_0921.JPEG)
