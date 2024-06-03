@@ -6,10 +6,8 @@ layout: home
 ---
 # Helena Pedrotti
 <img src="IMG_0921.JPEG" width="300">
-% ![photo of Helena Pedrotti](IMG_0921.JPEG)
 
-## Usage
+## Welcome!
 
-To use the Minimal theme:
-
+I am an NYU economics Phd candidate and will be on the 2024-2025 job market.
 
