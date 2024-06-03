@@ -20,7 +20,8 @@
 
 title: Helena Pedrotti
 email: hepedrotti@gmail.com
-description: >-     <img src="IMG_0921.JPEG" width="300">
+description: >-   
+  <img src="IMG_0921.JPEG" width="300">
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  pedrothe
