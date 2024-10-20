@@ -8,4 +8,4 @@ layout: default
 I am a Phd Candidate in Economics at NYU and will be on the 2024-2025 job market. I'm interested in Public Economics, Urban Economics, and Industrial Organization.
 
 
-You can find my CV here and my job market paper here.
+You can find my CV [here](assets/docs/cv.pdf) and my job market paper [here](assets/docs/jmp.pdf).
