@@ -9,7 +9,7 @@ title: Home
   {% include navbar.md %}
   
   
-  <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <br /><br /><br /><br /><br /><br /><br /><br />
 I am a Phd Candidate in Economics at NYU and will be on the 2024-2025 job market. I'm interested in Public Economics, Urban Economics, and Industrial Organization.
 
 
