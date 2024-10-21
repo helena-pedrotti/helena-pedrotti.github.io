@@ -6,7 +6,7 @@ layout: default
 title: Home
 ---
 
-  {% include navbar.html %}
+  {% include navbar.md %}
   
   
   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
