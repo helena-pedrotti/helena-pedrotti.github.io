@@ -13,7 +13,7 @@ title: Home
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;"> I am a Phd Candidate in Economics at NYU and will be on the 2024-2025 job market. I'm interested in Public Economics, Urban Economics, and Industrial Organization.
 
 
-  You can find my CV <a href="assets/docs/cv.pdf" style="color: IndianRed;">here</a> 
-  and my job market paper <a href="assets/docs/jmp.pdf" style="color: IndianRed;">here</a>.
+  You can find my CV <a href="assets/docs/cv.pdf" style="color: #267cb9;">here</a> 
+  and my job market paper <a href="assets/docs/jmp.pdf" style="color: #267cb9;">here</a>.
 
   <br /><br /><br /><br /><br /><br /><br />
