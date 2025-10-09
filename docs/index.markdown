@@ -10,7 +10,7 @@ title: Home
   
   
   <br /><br /><br /><br /><br /><br /><br />
-<p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;"> I am a Phd Candidate in Economics at NYU and will be on the 2025-2026 job market. My focus is in Industrial Organization, Public Economics, and Urban Economics.n.
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;"> I am a Phd Candidate in Economics at NYU and will be on the 2025-2026 job market. My focus is in Industrial Organization, Public Economics, and Urban Economics.
 
 
   You can find my CV <a href="assets/docs/cv.pdf" style="color: #267cb9;">here</a> 
