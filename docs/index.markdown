@@ -11,19 +11,26 @@ title: Home
   
   <br /><br /><br /><br /><br /><br /><br />
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
-
-Welcome!
-
 I am a Ph.D. candidate in Economics at NYU.
-
+</p>
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
 I combine reduced-form empirical methods and structural modeling to answer questions about (i) the role of housing and urban policy in mitigating socioeconomic inequalities, and (ii) how various levels of governments interact to implement spatial policies.
+</p>
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
 
 Research interests: public economics, industrial organization, urban economics. 
+</p>
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
 
 I will be on the 2025-2026 job market.
+</p>
+<p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
 
  You can find my CV <a href="assets/docs/cv.pdf" style="color: #267cb9;">here</a> 
   and my job market paper <a href="assets/docs/jmp.pdf" style="color: #267cb9;">here</a>.
- pedrotti@nyu.edu
+  </p>
+  <p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
 
+ pedrotti@nyu.edu
+</p>
   <br /><br /><br /><br /><br /><br /><br />
