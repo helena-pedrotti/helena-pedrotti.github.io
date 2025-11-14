@@ -22,7 +22,7 @@ Research interests: public economics, industrial organization, urban economics.
 </p>
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
 
-I will be on the 2025-2026 job market.
+<b>I will be on the 2025-2026 job market.</b>
 </p>
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
 
