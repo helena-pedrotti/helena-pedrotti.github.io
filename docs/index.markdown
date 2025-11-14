@@ -31,6 +31,5 @@ I combine reduced-form empirical methods and structural modeling to answer quest
   </p>
   <p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
 
- pedrotti@nyu.edu
 </p>
   <br /><br /><br /><br /><br /><br /><br />
