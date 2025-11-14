@@ -18,7 +18,7 @@ I combine reduced-form empirical methods and structural modeling to answer quest
 </p>
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
 
-Research interests: public economics, industrial organization, urban economics. 
+<b>Research interests:</b> public economics, industrial organization, urban economics. 
 </p>
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
 

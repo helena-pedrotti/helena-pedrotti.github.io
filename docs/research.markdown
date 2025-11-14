@@ -3,7 +3,7 @@ layout: default
 title: Research
 permalink: /research/
 ---
-
+{% include navbar.md %}
 ### Working Papers
 
 * **"Local Discretion in Low-Income Housing Policy: Evidence from France"**
