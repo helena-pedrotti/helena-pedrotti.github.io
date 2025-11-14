@@ -9,7 +9,7 @@ title: Home
   {% include navbar.md %}
   
   
-  <br /><br /><br /><br /><br /><br /><br />
+  <br /><br /><br /><br />
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
 I am a Ph.D. candidate in Economics at NYU.
 </p>
