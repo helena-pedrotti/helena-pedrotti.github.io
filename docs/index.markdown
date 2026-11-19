@@ -11,10 +11,9 @@ title: Home
   
   <br /><br /><br /><br />
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
-I am a Ph.D. candidate in Economics at NYU.
-</p>
+I am an economist at the Federal Trade Commission in Antitrust II. </p>
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
-I combine reduced-form empirical methods and structural modeling to answer questions about (i) the role of housing and urban policy in mitigating socioeconomic inequalities, and (ii) how various levels of governments interact to implement spatial policies.
+In my research, I combine reduced-form empirical methods and structural modeling to answer questions about (i) the role of housing and urban policy in mitigating socioeconomic inequalities, and (ii) how various levels of governments interact to implement spatial policies.
 </p>
 <p style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
 
